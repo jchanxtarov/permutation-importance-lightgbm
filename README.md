@@ -1,2 +1,2 @@
 # xai-models
-repository to check some representative XAI models' libraries.
+repository to check permutation importance vs feature importance for lightgbm.
